@@ -73,5 +73,5 @@ def run_simulation(steps=35):
 
     plt.show()
 
-# Run the simulation for 35 steps
+# Run the simulation for 65 steps
 run_simulation(65)
